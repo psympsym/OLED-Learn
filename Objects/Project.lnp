@@ -1,0 +1,10 @@
+".\Objects\main.obj",
+".\Objects\STC8Ax_Init.obj",
+".\Objects\uart_printf.obj",
+".\Objects\STC8A_Delay.obj",
+".\Objects\STC8A_GPIO.obj",
+".\Objects\STC8A_Timer.obj",
+".\Objects\OLED.obj" 
+TO ".\Objects\Project" 
+
+PRINT(".\Listings\Project.map")
